@@ -47,6 +47,16 @@ img {
   width: 250px;
 }
 
+figcaption {
+  color: #3d3d3d;
+}
+
+figure div span {
+  display: block;
+  font-size: 0.85em;
+  font-weight: normal;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;

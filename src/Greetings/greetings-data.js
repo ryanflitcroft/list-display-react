@@ -34,5 +34,6 @@ export const greetings = [
       }
   }
 ];
+// console.log('||greetings-data: ' + greetings);
 
 // array of objects, where the value of the property is a nested object 
