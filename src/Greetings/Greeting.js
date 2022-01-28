@@ -2,7 +2,6 @@ import React from 'react';
 
 export default function Greeting(props) {
   
-  console.log('||Greeting: ', props);
   return (
     <>
       <p>

@@ -1,4 +1,3 @@
-
 export default function City(props) {
 
   return (
@@ -13,4 +12,3 @@ export default function City(props) {
     </figure>
   );
 }
-

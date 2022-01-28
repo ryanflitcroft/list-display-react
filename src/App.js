@@ -12,7 +12,6 @@ import BandsList from './Bands/BandsList';
 
 function App() {
 
-  console.log('||greetings-data: ', greetings);
   return (
     <div className="App">
       <EmoticonsList emoticons={emoticons} />
