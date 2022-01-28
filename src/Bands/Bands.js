@@ -2,7 +2,7 @@ import React from 'react';
 import Members from './Members';
 
 export default function Bands(props) {
-  console.log('||', props.band.name);
+
   return (
     <figure>
       <figcaption>

@@ -61,6 +61,3 @@ export const bands = [
     img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_k5A3iNc30W7LAGNufKwr1rqDFCRO1GK2xw&usqp=CAU'
   }
 ];
-
-
-// array of objects, where the value of a property is an array

@@ -20,5 +20,3 @@ export const cities = [
     img: 'https://blog-www.pods.com/wp-content/uploads/2021/03/resized_FI_Getty_San-Francisco-CA-1.jpg' 
   }
 ];
-
-// array of strings
